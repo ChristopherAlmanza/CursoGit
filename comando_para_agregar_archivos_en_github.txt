@@ -17,4 +17,4 @@ git push  origin main
 
 actualizar cambios realizados en los repositorios 
 
-git pull origin main -> el main es el nombre de la rama loq ue siginifica que puede cambiar
+git pull origin main -> el main es el nombre de la rama lo que siginifica que puede cambiar
