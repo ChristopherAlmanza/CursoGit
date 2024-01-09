@@ -11,9 +11,7 @@ git push -u origin main
 
 para actuarilzar un repositorio existente
 
-git init 
 git add .
 git commit -m "un nombre"
-git branch -M main
-git push -u origin main 
+git push  origin main 
 
