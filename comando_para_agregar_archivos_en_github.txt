@@ -1,0 +1,19 @@
+
+si se crea un nuevo repositorio
+
+git init 
+git add .
+git commit -m "un nombre"
+git branch -M main
+git remote add origin direccion en shh
+git push -u origin main 
+
+
+para actuarilzar un repositorio existente
+
+git init 
+git add .
+git commit -m "un nombre"
+git branch -M main
+git push -u origin main 
+
